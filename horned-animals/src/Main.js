@@ -4,7 +4,7 @@ import HornedBeasts from "./horned-beast";
 
 const arr= [{
     "_id": 1,
-    "image_url": "https://leviathyn.com/wp-content/uploads/2015/06/beastman.jpgt",
+    "image_url": "https://diamondpaintkit.com/wp-content/uploads/2021/12/Horned-beast-paint-by-numbers.jpg",
     "title": "lesedwards",
     "description": "wallpaper for lesedwards",
     "keyword": "lesedwards",
